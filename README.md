@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayanFarooqi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Full stack development
-- 📫 How to reach me "ishwakeel50@gmail.com"
+- 📫 How to reach me "rayanfarooqi1816@gmail.com"
 - ⚡ Fun fact: Im a talented and very fast creative learner
 
 <!---
